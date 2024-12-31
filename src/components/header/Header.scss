@@ -19,12 +19,12 @@
   @include title;
 }
 .site-header__content-location {
-  max-width: 211px;
   margin: 13px 0 15px 0;
   padding: 8px 15px 8px 12px;
   @include text;
   border: 2px solid $light-blue;
   border-radius: 25px;
+  display: inline-block;
   &::before {
     content: "";
     width: 16px;
