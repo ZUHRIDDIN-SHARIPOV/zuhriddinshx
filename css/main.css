@@ -104,6 +104,7 @@ img {
   color: #7979ff;
   border: 2px solid #7979ff;
   border-radius: 25px;
+  display: inline-block;
 }
 .site-header__content-location::before {
   content: "";

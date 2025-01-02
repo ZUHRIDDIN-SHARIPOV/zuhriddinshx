@@ -21,6 +21,7 @@
   @include text;
   border: 2px solid $light-blue;
   border-radius: 25px;
+  display: inline-block;
   &::before {
     content: "";
     width: 16px;
